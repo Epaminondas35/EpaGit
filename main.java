@@ -4,6 +4,7 @@ public class TestGit
 	public TestGit()
 	{
 		System.out.println("Test GIT2");
+		System.out.println("Test projetB");
 	}
 }
 //test
