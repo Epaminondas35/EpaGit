@@ -3,7 +3,7 @@ public class TestGit
 {
 	public TestGit()
 	{
-		System.out.println("Test GIT");
+		System.out.println("Test GIT2");
 	}
 }
 //test
