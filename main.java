@@ -5,6 +5,7 @@ public class TestGit
 	{
 		System.out.println("Test GIT2");
 		System.out.println("Test projetB");
+		return(rc);
 	}
 }
 //test
